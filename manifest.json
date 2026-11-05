@@ -1,0 +1,13 @@
+{
+    "display_name": "Chat Render Live Apply",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "css": "",
+    "author": "local",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": false
+}
